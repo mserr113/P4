@@ -824,11 +824,11 @@ h4 {
 }
 
 .bg-atlanta-20made-20sign {
-    background-image: url("img/atlanta%20made%20sign.avif");
+    background-image: url("img/atlanta%20made%20sign.svg");
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/atlanta%20made%20sign%20orange.avif");
+    background-image: url("img/atlanta%20made%20sign%20orange.svg");
 }
 
 @media (max-width: 1024px) {

@@ -285,6 +285,15 @@ a:hover {
 
 #bloc-2-services p {
     font-size: 14px;
+    line-height: 1.5;
+}
+
+#bloc-2-services .quote {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: 800;
 }
 
 .navbar {
@@ -652,6 +661,7 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
+    line-height: 1.5;
 }
 
 .container {
@@ -678,6 +688,7 @@ a {
 
 p {
     font-size: 14px;
+    line-height: 1.5;
 }
 
 .tight-width-whitespace {
@@ -785,13 +796,13 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #FFFFFF;
+    color: #364577!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
+    background: #FFFFFF!important;
+    color: #364577!important;
 }
 
 .ltc-white {
